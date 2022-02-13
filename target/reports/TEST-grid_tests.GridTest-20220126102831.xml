@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="grid_tests.GridTest-20220126102831" tests="2" file="grid_tests.py" time="0.005" timestamp="2022-01-26T10:28:32" failures="0" errors="0" skipped="0">
+	<testcase classname="grid_tests.GridTest" name="test_create_grid_from_text_file" time="0.003" timestamp="2022-01-26T10:28:32"/>
+	<testcase classname="grid_tests.GridTest" name="test_grid_indexing" time="0.002" timestamp="2022-01-26T10:28:32"/>
+</testsuite>

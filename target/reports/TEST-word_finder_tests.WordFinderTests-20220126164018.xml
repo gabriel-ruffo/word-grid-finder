@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="word_finder_tests.WordFinderTests-20220126164018" tests="3" file="word_finder_tests.py" time="1.280" timestamp="2022-01-26T16:40:20" failures="0" errors="0" skipped="0">
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_one_line" time="0.325" timestamp="2022-01-26T16:40:19"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_one_line_s" time="0.487" timestamp="2022-01-26T16:40:19"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_one_line_x" time="0.467" timestamp="2022-01-26T16:40:20"/>
+</testsuite>

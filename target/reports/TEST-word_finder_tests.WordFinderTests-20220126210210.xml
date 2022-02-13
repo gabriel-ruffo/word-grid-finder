@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="word_finder_tests.WordFinderTests-20220126210210" tests="6" file="word_finder_tests.py" time="32.909" timestamp="2022-01-26T21:02:43" failures="0" errors="0" skipped="0">
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_abc_grid" time="20.127" timestamp="2022-01-26T21:02:30"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_empty_letters" time="0.234" timestamp="2022-01-26T21:02:31"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_one_line" time="0.225" timestamp="2022-01-26T21:02:31"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_one_line_s" time="0.387" timestamp="2022-01-26T21:02:31"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_one_line_x" time="0.388" timestamp="2022-01-26T21:02:32"/>
+	<testcase classname="word_finder_tests.WordFinderTests" name="test_simple_grid" time="11.547" timestamp="2022-01-26T21:02:43"/>
+</testsuite>

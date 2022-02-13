@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cell_tests.CellTests-20220122093423" tests="1" file="cell_tests.py" time="0.001" timestamp="2022-01-22T09:34:24" failures="0" errors="0" skipped="0">
+	<testcase classname="cell_tests.CellTests" name="test_make_cell_and_get_fields" time="0.001" timestamp="2022-01-22T09:34:24"/>
+</testsuite>
