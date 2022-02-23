@@ -1,5 +1,9 @@
 # word-grid-finder
-A small program that finds all possible words within any n*n grid of letters.
+A small program that finds all possible words made by connecting letters within any n * n grid of letters.  
+Algorithm rules:  
+  1. Horizontal, vertical, and diagonal searching  
+  2. Each letter can only be visited once within a word
+  3. Letters must be neighbors
 
 Store file containing comma separated letters in a grid in src/main/files/ and run src/main/python/runner.py.
 
