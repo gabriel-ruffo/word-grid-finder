@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="grid_tests.GridTest-20220122095438" tests="1" file="grid_tests.py" time="0.002" timestamp="2022-01-22T09:54:38" failures="0" errors="0" skipped="0">
-	<testcase classname="grid_tests.GridTest" name="test_create_grid_from_text_file" time="0.002" timestamp="2022-01-22T09:54:38"/>
-</testsuite>

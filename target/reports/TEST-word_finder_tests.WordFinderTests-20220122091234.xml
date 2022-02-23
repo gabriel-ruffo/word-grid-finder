@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="word_finder_tests.WordFinderTests-20220122091234" tests="1" file="word_finder_tests.py" time="0.189" timestamp="2022-01-22T09:12:35" failures="0" errors="0" skipped="0">
-	<testcase classname="word_finder_tests.WordFinderTests" name="test_simple_grid" time="0.189" timestamp="2022-01-22T09:12:35"/>
-</testsuite>

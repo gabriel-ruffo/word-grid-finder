@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="dictionary_checker_tests.HelloWorldTest-20220121215319" tests="4" file="dictionary_checker_tests.py" time="0.242" timestamp="2022-01-21T21:53:20" failures="0" errors="0" skipped="0">
-	<testcase classname="dictionary_checker_tests.HelloWorldTest" name="test_word_in_dict_does_not_start_with_letters" time="0.213" timestamp="2022-01-21T21:53:20"/>
-	<testcase classname="dictionary_checker_tests.HelloWorldTest" name="test_word_in_dict_starts_with_letters" time="0.012" timestamp="2022-01-21T21:53:20"/>
-	<testcase classname="dictionary_checker_tests.HelloWorldTest" name="test_word_in_dictionary_successful" time="0.000" timestamp="2022-01-21T21:53:20"/>
-	<testcase classname="dictionary_checker_tests.HelloWorldTest" name="test_word_not_in_dictionary" time="0.016" timestamp="2022-01-21T21:53:20"/>
-</testsuite>
